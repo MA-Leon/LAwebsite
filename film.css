@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+
+p{
+    font-weight: 300;
+    margin: 5px;
+    color: white;
+}
+
+.film{
+    margin: auto;
+    width: 50%;
+    padding: 150px 0px 100px 0px;
+}
+
+button{
+    font-family: 'Source Code Pro', monospace;
+    font-size: large;
+    font-weight: 300;
+    letter-spacing: 7px;
+    background-color: black;
+    color: white;
+    border: solid;
+    border-width: thin;
+    border-radius: 12px;
+    width: auto;
+    margin: 10px;
+}
+
+.options{
+    margin-top: 20px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.arrow{
+    width: 25px;
+}
+
+.home{
+    width: 30px;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+}
