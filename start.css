@@ -23,6 +23,7 @@ h1{
 
 button{
     font-family: 'Source Code Pro', monospace;
+    color: black;
     font-size: large;
     font-weight: 300;
     letter-spacing: 7px;
